@@ -1,3 +1,5 @@
 second.txt
 
-just my seconf file
+just my second file
+
+fixed code
